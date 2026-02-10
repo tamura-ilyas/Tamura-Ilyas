@@ -1,6 +1,5 @@
 # 💫 About Me:
-AI BACKEND ENGINEER
-Passionate Computer Scientist<br>Cloud Computing Fellowship at Digifloat Limited & UET-ACM<br>MERN Stack Developer at TIERS LIMITED
+AI BACKEND ENGINEER<br>Passionate Computer Scientist<br>AI Software Engineer at Mebiocon<br>Cloud Computing Fellowship at Digifloat Limited & UET-ACM<br>MERN Stack Developer at TIERS LIMITED
 
 
 ## 🌐 Socials:
